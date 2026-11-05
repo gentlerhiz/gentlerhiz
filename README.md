@@ -31,6 +31,10 @@ Open to remote work: software engineering, code review, QA and test design, and 
 - **English Proficiency Test Mock (Next.js)** — mock exam for postgraduate applicants with automatic grading and instant feedback. [Code](https://github.com/gentlerhiz/English-Proficiency-Test-Mock) · [Live](https://english-proficiency-test-mock.vercel.app/)
 - **Departmental Resource Management System** — final-year project: MERN web system with role-based access for allocating and tracking university resources.
 
+### Front-end apps
+
+- **CGPA Calculator (React)** — works out GPA and CGPA semester by semester on the Nigerian 5.0 or 4.0 scale, shows the degree class, and plans the average needed for a target CGPA. Data stays in the browser. [Code](https://github.com/gentlerhiz/cgpa-calc-react) · [Live](https://cgpa-calc-react.vercel.app/)
+
 ## Certifications
 
 - Front-End Web Development (140 hours, aligned to the MDN curriculum)
